@@ -157,3 +157,7 @@ footer, .wrapper {
                      padding-left: 20px;
                      padding-right: 20px;
                  }
+
+a:link {
+    text-decoration: none;
+}
